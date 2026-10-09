@@ -17,3 +17,4 @@ shapely
 stackstac
 urllib3
 xarray
+pandas
