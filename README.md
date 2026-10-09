@@ -1,3 +1,39 @@
+# Bahrain Crop Intelligence
+
+## Satellite-Based Crop Monitoring in Buri, Bahrain
+
+**Arab Youth Space Hackathon — 813 Challenge**
+**Theme: Precision Agriculture & Crop Intelligence**
+
+### Project Overview
+
+This proof of concept explores how satellite-derived vegetation and moisture indicators can support agricultural monitoring in Buri, Bahrain.
+
+### Study Data
+
+* **Study area:** Buri, Bahrain
+* **Satellite:** Sentinel-2 Level-2A
+* **Data source:** Copernicus Browser
+* **Observation period:** 16 August–15 September 2026
+* **Number of observation dates:** 8
+* **Indicators:** NDVI and NDMI
+
+### Preliminary Results
+
+The correlation between mean NDMI and mean NDVI was **r = 0.668**, with **R² = 0.4456**, based on eight paired observations.
+
+These results indicate an association between the two indicators in this dataset. They do not independently confirm crop water stress or determine irrigation requirements.
+
+### Limitations
+
+The analysis covers one selected agricultural area and eight observation dates. Field measurements and additional environmental information are needed to validate possible crop water stress.
+
+### Project Notebook
+
+See [02_buri_sentinel2_analysis.ipynb](02_buri_sentinel2_analysis.ipynb) for the Buri Sentinel-2 analysis.
+
+---
+
 <div align="center">
 
 <img src="https://space.gov.ae/app_themes/lg21016/images/logo.svg" height="60" alt="UAE Space Agency" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
