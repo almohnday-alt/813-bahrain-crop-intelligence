@@ -881,3 +881,29 @@ An initiative by UAE Space Agency & Space42
 `#ArabYouthSpaceHackathon` · `#813Challenge` · `#FromLightToInsight` · `#SpaceTech` · `#EarthObservation`
 
 </div>
+
+
+---
+
+## Buri, Bahrain — Sentinel-2 Vegetation Monitoring
+
+### Objective
+
+To monitor changes in vegetation condition and moisture-related signals in the agricultural study area of Buri, Bahrain.
+
+### Data and Methodology
+
+Eight Sentinel-2 Level-2A observations from Copernicus Browser, covering 16 August to 15 September 2026, were analyzed using mean NDVI and NDMI values. A time-series comparison and correlation analysis were conducted.
+
+### Preliminary Results
+
+The correlation between mean NDMI and mean NDVI was r = 0.668, with R² = 0.4456. Both indices varied across the observation dates. These results indicate an association between the indices in this dataset, but do not independently confirm crop water stress or determine irrigation requirements.
+
+### Data Source and Limitations
+
+* **Study area:** Buri, Bahrain.
+* **Satellite data:** Sentinel-2 Level-2A.
+* **Observation period:** 16 August–15 September 2026.
+* **Limitation:** The analysis is based on eight observations. Field measurements and additional environmental information are needed to validate possible crop water stress.
+
+**Data distinction:** These findings are derived from Sentinel-2 and are separate from the Planet Tanager demonstration notebooks in this repository.
