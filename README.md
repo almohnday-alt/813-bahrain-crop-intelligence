@@ -950,3 +950,5 @@ The correlation between mean NDMI and mean NDVI was r = 0.668, with R² = 0.4456
 During the initial setup, we encountered difficulties identifying and accurately defining the geographic coordinates of the agricultural study area in Buri, Bahrain. Initial attempts to locate and delineate the target area did not consistently match the intended agricultural plots. We therefore continued developing the proof of concept using Sentinel-2 satellite observations and vegetation and moisture indices (NDVI and NDMI) for the selected study area.
 
 These results provide an initial indication of vegetation conditions and moisture-related patterns. However, satellite-derived indices alone cannot confirm crop water stress or determine irrigation requirements without field observations and additional supporting data.
+
+
